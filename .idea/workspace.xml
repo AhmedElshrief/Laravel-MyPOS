@@ -1,0 +1,2338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c199205a-f890-42e5-8589-4e237da0fb16" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/mcamara/laravel-localization" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/kkszymanowski/traitor" />
+      <path value="$PROJECT_DIR$/vendor/santigarcor/laratrust" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/dimsav/laravel-translatable" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1R0j10hCuoJq9lwPXMvJvz23rGk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="06-10-2019">
+        <observation name="false" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="false" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="false" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="false" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="false" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="144.0" />
+        <observation name="false" value="121.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="39.0" />
+        <observation name="false" value="269.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="4.0" />
+        <observation name="false" value="184.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="false" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="false" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="06-10-2019">
+        <observation name="false" value="25.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="false" value="99.0" />
+        <observation name="true" value="5.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="false" value="32.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="false" value="72.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="false" value="222.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="false" value="263.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="false" value="305.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="false" value="185.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="false" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="false" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="false" value="19.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="60.0" />
+        <observation name="true" value="11.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="11.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="23.0" />
+        <observation name="false" value="34.0" />
+        <observation name="true" value="17.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="93.0" />
+        <observation name="false" value="79.0" />
+        <observation name="true" value="56.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="196.0" />
+        <observation name="false" value="49.0" />
+        <observation name="true" value="20.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="141.0" />
+        <observation name="false" value="80.0" />
+        <observation name="true" value="87.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="69.0" />
+        <observation name="true" value="45.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="11.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="false" value="19.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="58.0" />
+        <observation name="true" value="13.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="11.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="23.0" />
+        <observation name="false" value="35.0" />
+        <observation name="true" value="16.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="93.0" />
+        <observation name="false" value="107.0" />
+        <observation name="true" value="28.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="196.0" />
+        <observation name="false" value="52.0" />
+        <observation name="true" value="17.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="141.0" />
+        <observation name="false" value="90.0" />
+        <observation name="true" value="77.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="89.0" />
+        <observation name="true" value="25.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="14.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="false" value="7.0" />
+        <observation name="true" value="13.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="31.0" />
+        <observation name="true" value="40.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="8.0" />
+        <observation name="true" value="10.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="23.0" />
+        <observation name="false" value="17.0" />
+        <observation name="true" value="34.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="93.0" />
+        <observation name="false" value="84.0" />
+        <observation name="true" value="51.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="196.0" />
+        <observation name="false" value="50.0" />
+        <observation name="true" value="19.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="141.0" />
+        <observation name="false" value="67.0" />
+        <observation name="true" value="100.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="49.0" />
+        <observation name="true" value="65.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="16.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="false" value="19.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="61.0" />
+        <observation name="true" value="10.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="11.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="23.0" />
+        <observation name="false" value="35.0" />
+        <observation name="true" value="16.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="93.0" />
+        <observation name="false" value="105.0" />
+        <observation name="true" value="30.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="196.0" />
+        <observation name="false" value="62.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="141.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="72.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="88.0" />
+        <observation name="true" value="26.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="11.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="false" value="20.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="71.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="18.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="23.0" />
+        <observation name="false" value="51.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="93.0" />
+        <observation name="false" value="135.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="196.0" />
+        <observation name="false" value="69.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="141.0" />
+        <observation name="false" value="167.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="false" value="114.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="23.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="06-10-2019">
+        <observation name="false" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="false" value="100.0" />
+        <observation name="true" value="4.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="false" value="32.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="false" value="72.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="false" value="219.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="false" value="262.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="false" value="295.0" />
+        <observation name="true" value="13.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="false" value="182.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="false" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="false" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="08-10-2019">
+        <observation name="cancelled" value="540.0" />
+        <observation name="explicitSelect" value="28.0" />
+        <observation name="typedSelect" value="5.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="cancelled" value="620.0" />
+        <observation name="explicitSelect" value="53.0" />
+        <observation name="typedSelect" value="21.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="cancelled" value="1247.0" />
+        <observation name="explicitSelect" value="174.0" />
+        <observation name="typedSelect" value="54.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="cancelled" value="684.0" />
+        <observation name="explicitSelect" value="197.0" />
+        <observation name="typedSelect" value="68.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="cancelled" value="1655.0" />
+        <observation name="explicitSelect" value="241.0" />
+        <observation name="typedSelect" value="67.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="cancelled" value="1011.0" />
+        <observation name="explicitSelect" value="138.0" />
+        <observation name="typedSelect" value="50.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="cancelled" value="2.0" />
+        <observation name="explicitSelect" value="2.0" />
+      </dailyData>
+      <dailyData date="17-10-2019">
+        <observation name="cancelled" value="1.0" />
+      </dailyData>
+      <dailyData date="18-10-2019">
+        <observation name="cancelled" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="cancelled" value="163.0" />
+        <observation name="explicitSelect" value="23.0" />
+        <observation name="typedSelect" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="07-10-2019">
+        <observation name="BASIC" value="171.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="BASIC" value="101.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="BASIC" value="196.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="BASIC" value="472.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="BASIC" value="433.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="BASIC" value="715.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="BASIC" value="435.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="BASIC" value="3.0" />
+      </dailyData>
+      <dailyData date="17-10-2019">
+        <observation name="BASIC" value="1.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="BASIC" value="62.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="08-10-2019">
+        <observation name="count" value="573.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="count" value="696.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="count" value="1475.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="count" value="950.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="count" value="1964.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="count" value="1199.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="count" value="4.0" />
+      </dailyData>
+      <dailyData date="17-10-2019">
+        <observation name="count" value="1.0" />
+      </dailyData>
+      <dailyData date="18-10-2019">
+        <observation name="count" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="count" value="188.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="144.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="241.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="39.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="537.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="4.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="367.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="144.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="241.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="39.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="537.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="4.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="367.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="0.132075" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.09978" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="0.347826" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="1.707706" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="5.692308" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="180.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="1188.594357" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="0.136054" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.205782" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="0.505495" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="50.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="7.756623" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="0.185255" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="10.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.547486" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="0.204878" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="6.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.557265" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="6.552" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="720.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="1934.559196" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="0.081633" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.044902" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="-1100.603774" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="-2.0" />
+        <observation name="min" value="-1154.0" />
+        <observation name="variance" value="27384.567295" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="-1116.21256" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="220.0" />
+        <observation name="min" value="-1156.0" />
+        <observation name="variance" value="19997.537494" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="-1106.430769" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1161.0" />
+        <observation name="variance" value="49056.723287" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="-1130.047619" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="-2.0" />
+        <observation name="min" value="-1154.0" />
+        <observation name="variance" value="13742.24193" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="-1123.138462" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1157.0" />
+        <observation name="variance" value="24155.001995" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="-1137.459357" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1252.0" />
+        <observation name="variance" value="9066.361815" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="-1123.931707" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1202.0" />
+        <observation name="variance" value="32445.019335" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="-1130.304" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1202.0" />
+        <observation name="variance" value="13490.98523" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="-1153.333333" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="-1152.0" />
+        <observation name="min" value="-1154.0" />
+        <observation name="variance" value="0.222222" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="-1086.816327" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1153.0" />
+        <observation name="variance" value="37344.2296" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="0.21256" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="20.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="2.222673" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="0.030769" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.017904" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="0.272109" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="20.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="2.702301" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="2.294505" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="20.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="24.590062" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="-30.26276" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="20.0" />
+        <observation name="min" value="-102.0" />
+        <observation name="variance" value="2032.85572" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="584615653613760800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0" />
+        <observation name="min" value="-101.0" />
+        <observation name="variance" value="NaN" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="3.301334" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="82.0" />
+        <observation name="min" value="-101.0" />
+        <observation name="variance" value="126.406601" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="average" value="1.333333" />
+        <observation name="count" value="39.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.624197" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="1.191489" />
+        <observation name="count" value="141.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.777091" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="1.085714" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.664965" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="23.0" />
+        <observation name="average" value="1.386138" />
+        <observation name="count" value="101.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.718883" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="93.0" />
+        <observation name="average" value="1.241635" />
+        <observation name="count" value="269.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.802414" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="196.0" />
+        <observation name="average" value="0.934306" />
+        <observation name="count" value="137.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.826187" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="141.0" />
+        <observation name="average" value="1.465466" />
+        <observation name="count" value="333.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.643307" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+        <observation name="average" value="1.497797" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.719697" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="average" value="1.022222" />
+        <observation name="count" value="45.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.682667" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="7.849057" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="19.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="16.798343" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="8.067633" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="54.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="38.019271" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="7.2" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="35.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="20.729378" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="6.653061" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="25.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="13.097767" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="7.048352" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="31.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="23.49129" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="7.024575" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="43.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="29.993717" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="6.829268" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="31.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="17.69812" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="7.08" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="30.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="16.451516" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="19.666667" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="29.0" />
+        <observation name="min" value="15.0" />
+        <observation name="variance" value="10.888889" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="7.081633" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="14.0" />
+        <observation name="min" value="3.0" />
+        <observation name="variance" value="9.493487" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="06-10-2019">
+        <observation name="UNDEFINED" value="27.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="UNDEFINED" value="104.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="UNDEFINED" value="74.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="UNDEFINED" value="228.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="UNDEFINED" value="265.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="UNDEFINED" value="308.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="UNDEFINED" value="188.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="UNDEFINED" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="UNDEFINED" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="2641.471698" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="12104735.780757" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="2557.541063" />
+        <observation name="count" value="207.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="15408108.239057" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="4299.630769" />
+        <observation name="count" value="65.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="16869810.236106" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="5089.897959" />
+        <observation name="count" value="147.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="19509209.293606" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="5149.854945" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="21808151.736226" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="5123.285444" />
+        <observation name="count" value="529.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="20664680.290836" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="6853.213009" />
+        <observation name="count" value="615.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="20078508.054652" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="6712.717334" />
+        <observation name="count" value="375.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="17593080.653287" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="3316.0" />
+        <observation name="count" value="3.0" />
+        <observation name="max" value="9948.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="5497928.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="6618.612245" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="14349786.31462" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="06-10-2019">
+        <observation name="0" value="18.0" />
+        <observation name="1" value="4.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="0" value="60.0" />
+        <observation name="1" value="7.0" />
+        <observation name="2" value="4.0" />
+        <observation name="3" value="2.0" />
+        <observation name="7" value="1.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="0" value="25.0" />
+        <observation name="1" value="1.0" />
+        <observation name="180" value="1.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="0" value="46.0" />
+        <observation name="1" value="4.0" />
+        <observation name="2" value="3.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="0" value="143.0" />
+        <observation name="1" value="20.0" />
+        <observation name="2" value="7.0" />
+        <observation name="21" value="1.0" />
+        <observation name="3" value="1.0" />
+        <observation name="50" value="1.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="0" value="167.0" />
+        <observation name="1" value="24.0" />
+        <observation name="10" value="1.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="1.0" />
+        <observation name="6" value="1.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="0" value="207.0" />
+        <observation name="1" value="24.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="3.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="1.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="0" value="114.0" />
+        <observation name="1" value="9.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="2.0" />
+        <observation name="424" value="1.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="3.0" />
+        <observation name="720" value="1.0" />
+        <observation name="8" value="3.0" />
+        <observation name="9" value="1.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="0" value="2.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="0" value="21.0" />
+        <observation name="1" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="06-10-2019">
+        <observation name="total" value="16.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="total" value="75.0" />
+        <observation name="withMnemonics" value="10.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="total" value="26.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="total" value="51.0" />
+        <observation name="withMnemonics" value="3.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="total" value="162.0" />
+        <observation name="withMnemonics" value="7.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="total" value="192.0" />
+        <observation name="withMnemonics" value="17.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="total" value="222.0" />
+        <observation name="withMnemonics" value="4.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="total" value="131.0" />
+        <observation name="withMnemonics" value="7.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="total" value="2.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="total" value="21.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="06-10-2019">
+        <observation name="1" value="6.0" />
+        <observation name="18" value="1.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="4.0" />
+        <observation name="4" value="2.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="2.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="17" value="1.0" />
+        <observation name="2" value="17.0" />
+        <observation name="20" value="1.0" />
+        <observation name="21" value="1.0" />
+        <observation name="3" value="21.0" />
+        <observation name="4" value="18.0" />
+        <observation name="5" value="8.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="6.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="1.0" />
+        <observation name="12" value="1.0" />
+        <observation name="2" value="8.0" />
+        <observation name="3" value="9.0" />
+        <observation name="4" value="3.0" />
+        <observation name="5" value="1.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="1.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="1" value="2.0" />
+        <observation name="10" value="1.0" />
+        <observation name="12" value="1.0" />
+        <observation name="2" value="22.0" />
+        <observation name="3" value="6.0" />
+        <observation name="4" value="14.0" />
+        <observation name="5" value="3.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="2.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="0" value="4.0" />
+        <observation name="1" value="8.0" />
+        <observation name="10" value="1.0" />
+        <observation name="11" value="1.0" />
+        <observation name="14" value="4.0" />
+        <observation name="2" value="49.0" />
+        <observation name="3" value="42.0" />
+        <observation name="4" value="24.0" />
+        <observation name="5" value="16.0" />
+        <observation name="6" value="4.0" />
+        <observation name="7" value="10.0" />
+        <observation name="8" value="6.0" />
+        <observation name="9" value="5.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="3.0" />
+        <observation name="10" value="2.0" />
+        <observation name="11" value="3.0" />
+        <observation name="13" value="1.0" />
+        <observation name="15" value="2.0" />
+        <observation name="17" value="1.0" />
+        <observation name="2" value="60.0" />
+        <observation name="20" value="1.0" />
+        <observation name="28" value="1.0" />
+        <observation name="3" value="53.0" />
+        <observation name="4" value="42.0" />
+        <observation name="5" value="13.0" />
+        <observation name="6" value="5.0" />
+        <observation name="7" value="3.0" />
+        <observation name="8" value="2.0" />
+        <observation name="9" value="3.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="0" value="4.0" />
+        <observation name="1" value="15.0" />
+        <observation name="10" value="1.0" />
+        <observation name="12" value="1.0" />
+        <observation name="15" value="1.0" />
+        <observation name="18" value="1.0" />
+        <observation name="19" value="2.0" />
+        <observation name="2" value="77.0" />
+        <observation name="3" value="61.0" />
+        <observation name="4" value="43.0" />
+        <observation name="5" value="11.0" />
+        <observation name="6" value="11.0" />
+        <observation name="7" value="6.0" />
+        <observation name="8" value="5.0" />
+        <observation name="9" value="2.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="0" value="3.0" />
+        <observation name="1" value="4.0" />
+        <observation name="10" value="1.0" />
+        <observation name="17" value="1.0" />
+        <observation name="2" value="44.0" />
+        <observation name="22" value="1.0" />
+        <observation name="3" value="36.0" />
+        <observation name="4" value="28.0" />
+        <observation name="5" value="5.0" />
+        <observation name="6" value="5.0" />
+        <observation name="7" value="5.0" />
+        <observation name="8" value="3.0" />
+        <observation name="9" value="2.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="12" value="1.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="12.0" />
+        <observation name="3" value="3.0" />
+        <observation name="4" value="6.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="06-10-2019">
+        <observation name="average" value="362.088889" />
+        <observation name="count" value="45.0" />
+      </dailyData>
+      <dailyData date="07-10-2019">
+        <observation name="average" value="404.01005" />
+        <observation name="count" value="199.0" />
+      </dailyData>
+      <dailyData date="08-10-2019">
+        <observation name="average" value="326.170454" />
+        <observation name="count" value="88.0" />
+      </dailyData>
+      <dailyData date="09-10-2019">
+        <observation name="average" value="294.197969" />
+        <observation name="count" value="197.0" />
+      </dailyData>
+      <dailyData date="10-10-2019">
+        <observation name="average" value="341.43322" />
+        <observation name="count" value="584.0" />
+      </dailyData>
+      <dailyData date="11-10-2019">
+        <observation name="average" value="390.248895" />
+        <observation name="count" value="679.0" />
+      </dailyData>
+      <dailyData date="12-10-2019">
+        <observation name="average" value="329.809032" />
+        <observation name="count" value="775.0" />
+      </dailyData>
+      <dailyData date="13-10-2019">
+        <observation name="average" value="311.51663" />
+        <observation name="count" value="451.0" />
+      </dailyData>
+      <dailyData date="14-10-2019">
+        <observation name="average" value="454.0" />
+        <observation name="count" value="3.0" />
+      </dailyData>
+      <dailyData date="20-10-2019">
+        <observation name="average" value="372.863636" />
+        <observation name="count" value="44.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mypos\resources\views\dashboard\orders" />
+      <recent name="C:\xampp\htdocs\mypos\resources\views\dashboard\clients\orders" />
+      <recent name="C:\xampp\htdocs\mypos\app\Http\Controllers\Dashboard\Client" />
+      <recent name="C:\xampp\htdocs\mypos\app\Http\Controllers\Dashboard" />
+      <recent name="C:\xampp\htdocs\mypos\public\uploads" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mypos\public\dashboard\dist\js" />
+      <recent name="C:\xampp\htdocs\mypos\public\uploads\products_images" />
+      <recent name="C:\xampp\htdocs\mypos\resources\views\dashboard\clients\orders" />
+      <recent name="C:\xampp\htdocs\mypos\resources\views\dashboard" />
+      <recent name="C:\xampp\htdocs\mypos\resources\views\dashboard\product" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c199205a-f890-42e5-8589-4e237da0fb16" name="Default Changelist" comment="" />
+      <created>1568810688579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568810688579</updated>
+      <workItem from="1568810692583" duration="31140000" />
+      <workItem from="1568855768273" duration="474000" />
+      <workItem from="1568856303915" duration="916000" />
+      <workItem from="1568858000046" duration="762000" />
+      <workItem from="1568892435206" duration="18107000" />
+      <workItem from="1568927609273" duration="2385000" />
+      <workItem from="1568930362119" duration="6932000" />
+      <workItem from="1569007697014" duration="12625000" />
+      <workItem from="1569069302052" duration="10567000" />
+      <workItem from="1569168045184" duration="2287000" />
+      <workItem from="1569248304659" duration="8523000" />
+      <workItem from="1569260402490" duration="1294000" />
+      <workItem from="1569261722292" duration="985000" />
+      <workItem from="1569338979830" duration="12223000" />
+      <workItem from="1569426924049" duration="8172000" />
+      <workItem from="1569508311584" duration="1205000" />
+      <workItem from="1569519779142" duration="3085000" />
+      <workItem from="1569585363284" duration="2078000" />
+      <workItem from="1569677899254" duration="10622000" />
+      <workItem from="1569767987777" duration="1355000" />
+      <workItem from="1570356675325" duration="2766000" />
+      <workItem from="1570383517371" duration="11460000" />
+      <workItem from="1570450456812" duration="5720000" />
+      <workItem from="1570546586728" duration="4715000" />
+      <workItem from="1570555620833" duration="6913000" />
+      <workItem from="1570571483136" duration="2027000" />
+      <workItem from="1570573595504" duration="226000" />
+      <workItem from="1570573851766" duration="1585000" />
+      <workItem from="1570610582959" duration="7644000" />
+      <workItem from="1570644099729" duration="731000" />
+      <workItem from="1570656826812" duration="7365000" />
+      <workItem from="1570696470998" duration="15800000" />
+      <workItem from="1570733862665" duration="14202000" />
+      <workItem from="1570791410264" duration="12872000" />
+      <workItem from="1570829036132" duration="6941000" />
+      <workItem from="1570870416466" duration="7646000" />
+      <workItem from="1570889660546" duration="18651000" />
+      <workItem from="1570914841611" duration="1873000" />
+      <workItem from="1570961871970" duration="9740000" />
+      <workItem from="1570981788577" duration="5886000" />
+      <workItem from="1570994388887" duration="6204000" />
+      <workItem from="1571046282671" duration="1727000" />
+      <workItem from="1571078591270" duration="744000" />
+      <workItem from="1571081213908" duration="3130000" />
+      <workItem from="1571267537690" duration="742000" />
+      <workItem from="1571270221243" duration="408000" />
+      <workItem from="1571270916128" duration="146000" />
+      <workItem from="1571402690606" duration="6301000" />
+      <workItem from="1571421516513" duration="1464000" />
+      <workItem from="1571431841320" duration="829000" />
+      <workItem from="1571438932839" duration="111000" />
+      <workItem from="1571508486656" duration="3147000" />
+      <workItem from="1571519857675" duration="37000" />
+      <workItem from="1571520017186" duration="1881000" />
+      <workItem from="1571575667706" duration="7399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
